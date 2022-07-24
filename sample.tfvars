@@ -1,0 +1,1 @@
+image = "redis:3.2"
