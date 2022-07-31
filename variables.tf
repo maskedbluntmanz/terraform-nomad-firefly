@@ -11,7 +11,7 @@ variable "job_gen_spec" {
 
   })
   default = {
-    prefix   = ["pod01", "pod02"]
+    prefix   = ["pod03", "pod02"]
     suffix   = ["grp1", "grp2"]
     app_name = "app"
   }
